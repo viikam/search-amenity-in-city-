@@ -1,0 +1,34 @@
+utiliser une api
+
+utiliser du json et xml
+
+utiliser markdown pour le convertir en pdf
+
+
+phase 1:
+fiche osm
+id ->compte rendus en md/html
+
+phase 2:
+telecharger bc de données
+faire des stats dessus
+mettre en page les resultats grace à un fichier html
+
+
+
+
+bonus = arguments de commandes dans bash 
+par exemple : 
+python3 fichier.py -h 
+-> renvoie un help du fichier 
+
+
+
+
+projet Vcitor/Lucas : 
+
+utiliser l'api de overpass turbo afin de retourner des infos sur un sujet choisis
+
+
+
+
